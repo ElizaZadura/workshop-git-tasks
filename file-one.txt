@@ -1,0 +1,2 @@
+this is a text file bla bla
+I'll edit the text in a while to make a readme
